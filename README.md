@@ -52,6 +52,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 I appreciate your support and look forward to making this product even better with your help!
 
 ## ©️ Contact
-For more questions you can reach me through my
-email: akwaowoudokop15@gmail.com or 
-LinkedIn: https://www.linkedin.com/in/akwaowo-udokop-474662229/
+For more questions you can reach me through:  
+- email: akwaowoudokop15@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akwaowo-udokop-474662229/
